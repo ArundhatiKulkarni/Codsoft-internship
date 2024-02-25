@@ -1,0 +1,40 @@
+{
+  "questions": [
+    {
+      "question": "Hi",
+      "answer": "Hello There!"
+    },
+    {
+      "question": "hi",
+      "answer": "Hello there!"
+    },
+    {
+      "question": "Namaste",
+      "answer": "Namaste, How may I help you?"
+    },
+    {
+      "question": "Hello",
+      "answer": "hello how are you"
+    },
+    {
+      "question": "good",
+      "answer": "thank you"
+    },
+    {
+      "question": "namaskar",
+      "answer": "namaskar "
+    },
+    {
+      "question": "I am fine",
+      "answer": "Good.how may i help you"
+    },
+    {
+      "question": "clear",
+      "answer": "quit"
+    },
+    {
+      "question": "thank you",
+      "answer": "its my pleasure"
+    }
+  ]
+}
